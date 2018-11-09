@@ -1,2 +1,2 @@
-# my-projects
-Personal and professional projects
+# gesBIBLIO
+Java project for a library
