@@ -1,2 +1,2 @@
-# gesBIBLIO
-Java project for a library
+# Super Market
+PHP bootstrap project for a super market
